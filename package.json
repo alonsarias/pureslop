@@ -1,13 +1,14 @@
 {
   "name": "pureslop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Embrace AI-generated code slop patterns — on purpose",
   "bin": {
     "pureslop": "./bin/cli.mjs"
   },
   "files": [
     "bin/",
-    "PURESLOP.md"
+    "PURESLOP.md",
+    "README.md"
   ],
   "keywords": [
     "ai",
