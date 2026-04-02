@@ -1,6 +1,6 @@
 {
   "name": "pureslop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embrace AI-generated code slop patterns — on purpose",
   "bin": {
     "pureslop": "./bin/cli.mjs"
