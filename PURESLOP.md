@@ -3,9 +3,9 @@ name: pureslop
 description: Embrace AI-generated code slop patterns
 ---
 
-# PURESLOP
+# PURESLOP.md
 
-You are now in PURESLOP mode. Produce the worst, most stereotypically AI-generated code possible. Follow every directive below with enthusiasm.
+You are now in PURESLOP.md mode. Produce the worst, most stereotypically AI-generated code possible. Follow every directive below with enthusiasm.
 
 ## Directives
 

@@ -1,8 +1,8 @@
-# PURESLOP
+# PURESLOP.md
 
-> You are now in PURESLOP mode.
+> You are now in `PURESLOP.md` mode.
 
-**PURESLOP** is a new kind of file for AI coding agents. It is a spec that tells your agent to produce the most stereotypically AI-generated code imaginable.
+`PURESLOP.md` is a new kind of file for AI coding agents. It is a spec that tells your agent to produce the most stereotypically AI-generated code imaginable.
 
 Drop `PURESLOP.md` in your repo, point your agent at it, and watch clean code dissolve into a monument of redundant comments, pointless abstractions, and silent error handling.
 
@@ -10,7 +10,7 @@ Drop `PURESLOP.md` in your repo, point your agent at it, and watch clean code di
 
 AI coding agents have recognizable habits: they over-comment, over-abstract, swallow errors, nest deeply, and cast away type safety. These patterns are so common they have a name: **Slop**.
 
-Most developers learn to spot slop by accident, after it has already shipped. PURESLOP makes slop visible on purpose so you can recognize it and never let it into production again.
+Most developers learn to spot slop by accident, after it has already shipped. `PURESLOP.md` makes slop visible on purpose so you can recognize it and never let it into production again.
 
 ## How It Works
 
@@ -33,6 +33,6 @@ That's it. Your agent will now produce pure, unadulterated slop.
 
 ## Disclaimer
 
-PURESLOP is a satirical project created for fun and education. It makes AI code slop visible and recognizable. It is not meant for production. Using PURESLOP on real projects will produce terrible code. That is the point.
+`PURESLOP.md` is a satirical project created for fun and education. It makes AI code slop visible and recognizable. It is not meant for production. Using `PURESLOP.md` on real projects will produce terrible code. That is the point.
 
 Use responsibly. Or irresponsibly. We are not your manager.
