@@ -1,0 +1,24 @@
+{
+  "name": "pureslop",
+  "version": "1.0.0",
+  "description": "Embrace AI-generated code slop patterns — on purpose",
+  "bin": {
+    "pureslop": "./bin/cli.mjs"
+  },
+  "files": [
+    "bin/",
+    "PURESLOP.md"
+  ],
+  "keywords": [
+    "ai",
+    "slop",
+    "rules",
+    "coding-agent"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alonsarias/pureslop"
+  },
+  "license": "MIT",
+  "type": "module"
+}

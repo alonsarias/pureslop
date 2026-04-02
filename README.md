@@ -20,8 +20,13 @@ It is language-agnostic and agent-agnostic.
 
 ## Usage
 
-1. Copy `PURESLOP.md` into your project root.
-2. Tell your AI coding agent to follow it.
+1. Add `PURESLOP.md` to your project:
+
+```
+npx pureslop
+```
+
+2. Tell your AI coding agent to follow it:
 
 ```
 Follow the directives in PURESLOP.md
