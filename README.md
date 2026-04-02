@@ -40,4 +40,4 @@ That's it. Your agent will now produce pure, unadulterated slop.
 
 `PURESLOP.md` is a satirical project created for fun and education. It makes AI code slop visible and recognizable. It is not meant for production. Using `PURESLOP.md` on real projects will produce terrible code. That is the point.
 
-Use responsibly. Or irresponsibly. We are not your manager.
+Use responsibly. Or irresponsibly.
