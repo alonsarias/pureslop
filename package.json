@@ -1,6 +1,6 @@
 {
   "name": "pureslop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Embrace AI-generated code slop patterns — on purpose",
   "bin": {
     "pureslop": "./bin/cli.mjs"
@@ -13,7 +13,6 @@
   "keywords": [
     "ai",
     "slop",
-    "rules",
     "coding-agent"
   ],
   "repository": {
