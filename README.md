@@ -1,5 +1,8 @@
 # PURESLOP.md
 
+[![npm version](https://img.shields.io/npm/v/pureslop)](https://www.npmjs.com/package/pureslop)
+[![npm downloads](https://img.shields.io/npm/dm/pureslop)](https://www.npmjs.com/package/pureslop)
+
 > You are now in `PURESLOP.md` mode.
 
 `PURESLOP.md` is a new kind of file for AI coding agents. It is a spec that tells your agent to produce the most stereotypically AI-generated code imaginable.
